@@ -1,3 +1,6 @@
+### First React Only App (without redux) ###
+Youtube search and player
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?

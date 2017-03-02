@@ -12,7 +12,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 	> git clone git@github.com:jonathanmaia/YoutubePlayerReactStarter.git
 	> cd YoutubePlayerReactStarter
-	> #Edit src/index.js and update const API_KEY with a valid Youtube API Key
+	#Edit src/index.js and update const API_KEY with a valid Youtube API Key
 	> npm install
 	> npm start
 ```
